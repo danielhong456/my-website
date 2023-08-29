@@ -1,0 +1,12 @@
+body {
+    /* background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f505c200-a47a-499d-b373-a0404e271520/decttef-1b29732d-737a-41fd-9336-922f3e01b0ce.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1MDVjMjAwLWE0N2EtNDk5ZC1iMzczLWEwNDA0ZTI3MTUyMFwvZGVjdHRlZi0xYjI5NzMyZC03MzdhLTQxZmQtOTMzNi05MjJmM2UwMWIwY2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kZs2Wtui10bJfopJmGiVNMZSr__3RBa7pxunqTbobwo"); */
+    background-color: rgb(73, 137, 255);
+    color: white;
+}
+
+.gradient-text {  
+    background: -webkit-linear-gradient (white,red);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;  
+}
+
